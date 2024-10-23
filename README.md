@@ -13,7 +13,7 @@ This project features a **3D modeled and animated McLaren pink car**, designed u
 - **Textures**: Custom materials created in Blender.
 
 ## 🖼️ Screenshots:
-![McLaren Pink Car](./screenshots/front_view.png)
+![McLaren Pink Car](https://github.com/Waruni9810/McLaren-Pink-Car---3D-Model-and-Animation/blob/main/Mc.gif)
 
 ## 🎥 Preview:
 [Link to animation video](https://link_to_video)
